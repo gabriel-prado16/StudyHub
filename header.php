@@ -10,7 +10,7 @@
 </head>
 <body>
 <header class="topo">
-    <a class="logo" href="index.php">📚 Fórum Escolar</a>
+    <a class="logo" href="index.php">StudyHub</a>
     <nav>
         <a href="index.php">Matérias</a>
         <a href="enquetes.php">Enquetes</a>
